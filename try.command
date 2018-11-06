@@ -1,0 +1,29 @@
+javac TimedSorts.java
+java TimedSorts selection 25000 > outPut.txt
+java TimedSorts selection 50000 >> outPut.txt
+java TimedSorts selection 75000 >> outPut.txt
+java TimedSorts selection 100000 >> outPut.txt
+java TimedSorts selection 125000 >> outPut.txt
+java TimedSorts selection 150000 >> outPut.txt
+java TimedSorts selection 175000 >> outPut.txt
+java TimedSorts selection 200000 >> outPut.txt
+java TimedSorts insertion 25000 >> outPut.txt
+java TimedSorts insertion 50000 >> outPut.txt
+java TimedSorts insertion 75000 >> outPut.txt
+java TimedSorts insertion 100000 >> outPut.txt
+java TimedSorts insertion 125000 >> outPut.txt
+java TimedSorts insertion 150000 >> outPut.txt
+java TimedSorts insertion 175000 >> outPut.txt
+java TimedSorts insertion 200000 >> outPut.txt
+java TimedSorts insertion 225000 >> outPut.txt
+java TimedSorts bubble 25000 >> outPut.txt
+java TimedSorts bubble 50000 >> outPut.txt
+java TimedSorts bubble 75000 >> outPut.txt
+java TimedSorts bubble 100000 >> outPut.txt
+java TimedSorts bubble 125000 >> outPut.txt
+java TimedSorts bubble 150000 >> outPut.txt
+java TimedSorts bubble 175000 >> outPut.txt
+java TimedSorts bubble 200000 >> outPut.txt
+java TimedSorts bubble 225000 >> outPut.txt
+java TimedSorts bubble 250000 >> outPut.txt
+
