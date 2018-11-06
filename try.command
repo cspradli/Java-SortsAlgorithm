@@ -26,4 +26,23 @@ java TimedSorts bubble 175000 >> outPut.txt
 java TimedSorts bubble 200000 >> outPut.txt
 java TimedSorts bubble 225000 >> outPut.txt
 java TimedSorts bubble 250000 >> outPut.txt
-
+java TimedSorts merge 25000 >> outPut.txt
+java TimedSorts merge 50000 >> outPut.txt
+java TimedSorts merge 75000 >> outPut.txt
+java TimedSorts merge 100000 >> outPut.txt
+java TimedSorts merge 125000 >> outPut.txt
+java TimedSorts merge 150000 >> outPut.txt
+java TimedSorts merge 175000 >> outPut.txt
+java TimedSorts merge 200000 >> outPut.txt
+java TimedSorts merge 225000 >> outPut.txt
+java TimedSorts merge 250000 >> outPut.txt
+java TimedSorts quick 25000 >> outPut.txt
+java TimedSorts quick 50000 >> outPut.txt
+java TimedSorts quick 75000 >> outPut.txt
+java TimedSorts quick 100000 >> outPut.txt
+java TimedSorts quick 125000 >> outPut.txt
+java TimedSorts quick 150000 >> outPut.txt
+java TimedSorts quick 175000 >> outPut.txt
+java TimedSorts quick 200000 >> outPut.txt
+java TimedSorts quick 225000 >> outPut.txt
+java TimedSorts quick 250000 >> outPut.txt
