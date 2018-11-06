@@ -1,0 +1,9 @@
+java TimedSorts insertion 25000 >> Selection.csv
+java TimedSorts insertion 50000 >> Selection.csv
+java TimedSorts insertion 75000 >> Selection.csv
+java TimedSorts insertion 100000 >> Selection.csv
+java TimedSorts insertion 125000 >> Selection.csv
+java TimedSorts insertion 150000 >> Selection.csv
+java TimedSorts insertion 175000 >> Selection.csv
+java TimedSorts insertion 200000 >> Selection.csv
+java TimedSorts insertion 225000 >> Selection.csv

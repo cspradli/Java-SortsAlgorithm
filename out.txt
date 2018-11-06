@@ -1,8 +1,6 @@
 Starting selection sort.
-selection sort ran in 417.247959 milliseconds.
+selection sort ran in 382.869012 milliseconds.
 
-Array too large to print!
 Starting selection sort.
-selection sort ran in 1466.191752 milliseconds.
+selection sort ran in 1466.942903 milliseconds.
 
-Array too large to print!

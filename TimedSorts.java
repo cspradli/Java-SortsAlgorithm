@@ -26,7 +26,7 @@ public class TimedSorts {
         }
 
         long[] array = copyArray(startArray);
-        System.out.println("Starting " + sortType + " sort.");
+        //System.out.println("Starting " + sortType + " sort.");
         System.gc();
         
         switch (sortType) {
@@ -54,8 +54,7 @@ public class TimedSorts {
                                    break;
         }
         
-        System.out.println(sortType + " sort ran in " 
-                        + ((endTime - startTime) / 1000000.0) + " milliseconds.\n");
+        System.out.println(sortType +"     "+ ((endTime - startTime) / 1000000.0));
         printArray(array);
     }
     
@@ -183,7 +182,7 @@ public class TimedSorts {
     
     public static void printArray(long[] array) {
         if (array.length > 100 ){
-            System.out.println("Array too large to print!");
+            //System.out.println("Array too large to print!");
         }
         else {
             System.out.print("[");
