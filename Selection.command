@@ -7,3 +7,5 @@ java TimedSorts selection 125000 >> Selection.csv
 java TimedSorts selection 150000 >> Selection.csv
 java TimedSorts selection 175000 >> Selection.csv
 java TimedSorts selection 200000 >> Selection.csv
+java TimedSorts selection 225000 >> Selection.csv
+java TimedSorts selection 250000 >> Selection.csv

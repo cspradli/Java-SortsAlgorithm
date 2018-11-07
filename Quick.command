@@ -1,5 +1,5 @@
 javac TimedSorts.java
-java TimedSorts quick 25000 >> Quick.csv
+java TimedSorts quick 25000 > Quick.csv
 java TimedSorts quick 50000 >> Quick.csv
 java TimedSorts quick 75000 >> Quick.csv
 java TimedSorts quick 100000 >> Quick.csv
