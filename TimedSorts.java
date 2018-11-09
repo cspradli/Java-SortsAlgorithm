@@ -54,7 +54,7 @@ public class TimedSorts {
                                    break;
         }
         
-        System.out.println(sortType +"     "+ ((endTime - startTime) / 1000000.0));
+        System.out.println(/*sortType +"     "+*/ ((endTime - startTime) / 1000000.0));
         printArray(array);
     }
     
