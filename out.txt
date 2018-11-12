@@ -1,6 +1,0 @@
-Starting selection sort.
-selection sort ran in 382.869012 milliseconds.
-
-Starting selection sort.
-selection sort ran in 1466.942903 milliseconds.
-
